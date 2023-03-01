@@ -1,3 +1,3 @@
 # Streamlit
 
-A perosnal streamlit repository to keep learning and pick up some new tools. 📚
+A personal Streamlit repository to keep learning and pick up some new tools. 📚
